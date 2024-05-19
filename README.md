@@ -7,7 +7,7 @@ Valutazione 30L/30
 
 ### Obiettivo del progetto
 
-Implementazione delle strutture dati e dell'algoritmo per gestire le auto, le autostrate e i percorsi a tapper minime come dettagliatamente descritto nelle [specifiche](https://github.com/sara-leka/Algorithms-and-Data-Structures-Project-API-2022-2023/edit/main/requirements-ita.pdf)  
+Implementazione delle strutture dati e dell'algoritmo per gestire le auto, le autostrate e i percorsi a tapper minime come dettagliatamente descritto nelle [specifiche](https://github.com/sara-leka/Algorithms-and-Data-Structures-Project-API-2022-2023/blob/main/requirements-ita.pdf))  
 
 L'implementazione in linguaggio C è ottimizzata sia nei tempi di esecuzione sia ne consumo di memoria. 
 A tale fine sono stati usati alberi binari Red&Black per organizzare le stazioni nell'autostrada e un VLA per le auto nelle stazioni. 
