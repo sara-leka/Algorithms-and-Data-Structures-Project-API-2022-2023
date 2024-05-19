@@ -3,7 +3,7 @@
 
 In open_i.txt si trova l'input da dare al main.
 
-Dopo aver scaricato lo zip, in open_i_output.txt si trova l'output atteso.
+Dopo aver scaricato lo [zip](https://github.com/sara-leka/Algorithms-and-Data-Structures-Project-API-2022-2023/blob/main/open_test_archive/open_output_archive.zip), in open_i_output.txt si trova l'output atteso.
 
 
 
